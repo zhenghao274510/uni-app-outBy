@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "usingComponents": {
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "goods-swiper": "/components/home/goods-swiper",
+    "bbs-count-down": "/components/bbs-countdown/bbs-countdown",
+    "sku-swiper": "/components/home/sku-wiper",
+    "shop-cart": "/components/mycom/shop-cart"
+  }
+}

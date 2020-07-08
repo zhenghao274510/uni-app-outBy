@@ -1,0 +1,1 @@
+<view class="eva-section data-v-bcd73cc2"><view class="chart-con data-v-bcd73cc2"><chart vue-id="de0f5972-1" dataList="{{list}}" type="{{type}}" data-ref="chart" data-event-opts="{{[['^click',[['sendmessage']]],['^onCanel',[['delitem']]]]}}" bind:click="__e" bind:onCanel="__e" class="data-v-bcd73cc2 vue-ref" bind:__l="__l"></chart></view></view>

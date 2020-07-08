@@ -1,0 +1,81 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/order",
+    "pages/index/mine",
+    "pages/search/search",
+    "pages/shop/shopList",
+    "pages/shop/groupClass",
+    "pages/shop/shopDetails",
+    "pages/shop/outBuy",
+    "pages/search/search_list",
+    "pages/Previewindo/sendmessage",
+    "pages/mineoptions/address",
+    "pages/mineoptions/setUp",
+    "pages/mineoptions/personMessage",
+    "pages/mineoptions/safeSetUp",
+    "pages/mineoptions/linkwe",
+    "pages/mineoptions/kefucenter",
+    "pages/mineoptions/myGroupOrder",
+    "pages/mineoptions/addressManage",
+    "pages/mineoptions/bindphone",
+    "pages/mineoptions/changePhone",
+    "pages/mineoptions/newAddAdress",
+    "pages/mineoptions/myStore",
+    "pages/mineoptions/yijian",
+    "pages/mineoptions/callwe",
+    "pages/mineoptions/compline",
+    "pages/mineoptions/mymesage",
+    "pages/mineoptions/helpCenter",
+    "pages/mineoptions/webView",
+    "pages/goodDetails/gooddetails",
+    "pages/order/finishOrder",
+    "pages/order/orderDetails",
+    "pages/order/subSouHuo",
+    "pages/order/paiInfo",
+    "pages/order/tuiorder",
+    "pages/order/tuiDetails",
+    "pages/order/addEva",
+    "pages/author/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "守望互惠",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#333333",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabs/shouye(moren).png",
+        "selectedIconPath": "static/tabs/shouye.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/index/order",
+        "iconPath": "static/tabs/dingdan(moren).png",
+        "selectedIconPath": "static/tabs/dingdan.png",
+        "text": "我的订单"
+      },
+      {
+        "pagePath": "pages/index/mine",
+        "iconPath": "static/tabs/wode(moren).png",
+        "selectedIconPath": "static/tabs/wode.png",
+        "text": "个人中心"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取你当前位置"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap32.json"
+}

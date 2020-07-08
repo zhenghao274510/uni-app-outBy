@@ -1,0 +1,15 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "banner-swiper": "/components/mycom/swiper",
+    "navs": "/components/home/navs",
+    "page-header": "/components/mycom/pageHeader",
+    "notice": "/components/home/notic",
+    "home-list": "/components/mycom/homeList",
+    "shop-list": "/components/mycom/shopList"
+  }
+}

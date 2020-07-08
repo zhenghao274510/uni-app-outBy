@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "附近店铺",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "shop-list": "/components/mycom/shopList",
+    "empty": "/components/xw-empty/xw-empty",
+    "shop-list-title": "/components/mycom/shop-list-title"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "发送私信",
+  "usingComponents": {
+    "chart": "/components/mycom/chat"
+  }
+}

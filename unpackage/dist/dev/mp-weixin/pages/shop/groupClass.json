@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "拼团专区",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "group-x-title": "/components/mycom/group-x-title",
+    "home-list": "/components/mycom/homeList",
+    "empty": "/components/xw-empty/xw-empty"
+  }
+}

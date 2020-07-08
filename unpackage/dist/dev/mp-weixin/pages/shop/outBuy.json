@@ -1,0 +1,16 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "外卖",
+  "usingComponents": {
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "banner-swiper": "/components/mycom/swiper",
+    "navs": "/components/home/navs",
+    "page-header": "/components/mycom/pageHeader",
+    "swiper-goods": "/components/mycom/swiperGoods",
+    "shop-list": "/components/mycom/shopList",
+    "shop-list-title": "/components/mycom/shop-list-title"
+  }
+}

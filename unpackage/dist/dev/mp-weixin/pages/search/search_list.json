@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "搜索",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "shop-list": "/components/mycom/shopList",
+    "shop-list-title": "/components/mycom/shop-list-title",
+    "empty": "/components/xw-empty/xw-empty"
+  }
+}

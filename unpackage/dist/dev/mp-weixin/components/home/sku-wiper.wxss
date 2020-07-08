@@ -1,0 +1,134 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.none.data-v-25baefa6 {
+  display: none;
+}
+.show.data-v-25baefa6 {
+  display: block;
+}
+.mask.data-v-25baefa6 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;
+  background: rgba(0, 0, 0, 0.2);
+}
+.yaoqing-content.data-v-25baefa6 {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  background-color: #FFFFFF;
+  width: 92%;
+  background: white;
+  border-radius: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 40rpx 0;
+  box-sizing: border-box;
+  z-index: 99999;
+}
+.yaoqing-content .details_con.data-v-25baefa6 {
+  padding: 0 40rpx;
+}
+.yaoqing-content .details_con .sku-title.data-v-25baefa6 {
+  font-size: 34rpx;
+  font-weight: bold;
+  color: #333333;
+}
+.yaoqing-content .details_con .sku-con.data-v-25baefa6 {
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  padding: 20rpx 0;
+}
+.yaoqing-content .details_con .sku-con .sku-name.data-v-25baefa6 {
+  font-size: 24rpx;
+  color: #999999;
+}
+.yaoqing-content .details_con .sku-con .sku-item.data-v-25baefa6 {
+  width: 165rpx;
+  padding: 0 20rpx;
+  box-sizing: border-box;
+  margin-bottom: 20rpx;
+  text-align: center;
+  border-radius: 6rpx;
+  font-size: 24rpx;
+}
+.yaoqing-content .details_con .sku-con .noSelected.data-v-25baefa6 {
+  border: 1px solid #ededed;
+}
+.yaoqing-content .details_con .sku-con .selected.data-v-25baefa6 {
+  border: 1rpx solid #ffd473;
+  background: #fffbf1;
+  color: #333333;
+}
+.yaoqing-content .details_con .sku-con .sku_pad.data-v-25baefa6 {
+  margin-right: 20rpx;
+}
+.yaoqing-content .has_con.data-v-25baefa6 {
+  background: #fbfafa;
+  height: 80rpx;
+  padding: 0 40rpx;
+}
+.yaoqing-content .has_con .has_item.data-v-25baefa6 {
+  color: #FEC51C;
+  margin-right: 20rpx;
+}
+.yaoqing-content .has_end_con.data-v-25baefa6 {
+  padding: 40rpx 20rpx;
+}
+.yaoqing-content .has_end_con .has_price_con.data-v-25baefa6 {
+  font-size: 32rpx;
+  color: #fc453a;
+}
+.yaoqing-content .has_end_con .has_price_con .price.data-v-25baefa6 {
+  font-size: 42rpx;
+  color: #fc453a;
+}
+.yaoqing-content .has_end_con .has_btn.data-v-25baefa6 {
+  width: 212rpx;
+  height: 54rpx;
+  background: -webkit-linear-gradient(303deg, #ffbf00, #fbd86f);
+  background: linear-gradient(147deg, #ffbf00, #fbd86f);
+  border-radius: 27rpx;
+  text-align: center;
+  font-size: 26rpx;
+  font-weight: bold;
+  color: #2f3132;
+}
+

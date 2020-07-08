@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "店铺信息",
+  "navigationBarBackgroundColor": "#323332",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "shop-cart": "/components/mycom/shop-cart",
+    "scoll-x-title": "/components/mycom/scoll-x-title",
+    "eva-product-list": "/components/mycom/eva-product-List",
+    "empty": "/components/xw-empty/xw-empty",
+    "sku-swiper": "/components/home/sku-wiper"
+  }
+}
